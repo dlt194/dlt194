@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Dan Thomas
 
+![GitHub followers](https://img.shields.io/github/followers/dlt194?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/dlt194?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=dlt194&style=flat-square)
+
 🚀 **Full-Stack Software Engineer | VoIP & Telecom Specialist | Automation-Driven Builder**
 
 I design and build **production-grade web applications, APIs, and telecom automation platforms** with a strong focus on reliability, security, and maintainability. My background blends **traditional telecom (SIP, Avaya, contact centres)** with **modern full-stack engineering** and **containerised infrastructure**.
@@ -82,14 +86,18 @@ A portable, web-based OpenSSL tooling platform:
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Activity
 
-- 💼 LinkedIn:(https://www.linkedin.com/in/dan-thomas-2b338b79/
-- 📧 Email: dan@dlt.me.uk
-- 🌐 Portfolio: https://dlt.me.uk
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlt194&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlt194&layout=compact&langs_count=8)
 
 ---
 
-## 📊 GitHub Activity
+## 📫 Get in Touch
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlt194&show_icons=true&hide_title=true)
+- 💼 LinkedIn: https://www.linkedin.com/in/dan-thomas-2b338b79/
+- 📧 Email: dan@dlt.me.uk  
+- 🌐 Portfolio: https://dlt.me.uk  
+
+---
