@@ -1,4 +1,4 @@
-![Profile Banner](/banner.png)
+![Profile Banner](/1768908247983.jpg)
 
 # Hi, I'm Dan Thomas
 
