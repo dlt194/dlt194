@@ -4,25 +4,23 @@
 ![GitHub stars](https://img.shields.io/github/stars/dlt194?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=dlt194&style=flat-square)
 
-🚀 **Full-Stack Software Engineer | VoIP & Telecom Specialist | Automation-Driven Builder**
+**Full-Stack Software Engineer | VoIP & Telecom Specialist | Automation-Driven Builder**
 
 I design and build **production-grade web applications, APIs, and telecom automation platforms** with a strong focus on reliability, security, and maintainability. My background blends **traditional telecom (SIP, Avaya, contact centres)** with **modern full-stack engineering** and **containerised infrastructure**.
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
-- 🔧 Build **Next.js / React** applications with clean UX and scalable architecture  
-- ☎️ Design and integrate **VoIP & Contact Centre** systems (Avaya, Zoom, SIP, WebRTC)  
-- 🐳 Engineer **Docker-first platforms** and multi-service stacks  
-- 🔐 Implement secure auth, secrets management, and encryption practices  
-- 🤖 Automate workflows, on-call rotas, ticketing, and operational tooling  
-
-I enjoy solving **hard integration problems**—especially where legacy systems meet modern APIs.
+- Build **Next.js / React** applications with clean UX and scalable architecture  
+- Design and integrate **VoIP & Contact Centre** systems (Avaya, Zoom, SIP, WebRTC)  
+- Engineer **Docker-first platforms** and multi-service stacks  
+- Implement secure auth, secrets management, and encryption practices  
+- Automate workflows, on-call rotas, ticketing, and operational tooling  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Next.js (App Router)**, React, TypeScript  
@@ -54,9 +52,9 @@ I enjoy solving **hard integration problems**—especially where legacy systems 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 Certificate Tools (Next.js + Docker)
+### Certificate Tools (Next.js + Docker)
 A portable, web-based OpenSSL tooling platform:
 - CSR generation  
 - P12 creation  
@@ -64,33 +62,33 @@ A portable, web-based OpenSSL tooling platform:
 - Self-signed certificates  
 - Dockerised OpenSSL runners for consistency  
 
-### 🔹 On-Call Rota & Escalation Manager
+### On-Call Rota & Escalation Manager
 - Zoom Contact Center variable integration  
 - Microsoft Teams management UI  
 - Role-based access control  
 - Automated escalation for P1 / P2 incidents  
 
-### 🔹 IP Office Web Manager
+### IP Office Web Manager
 - Custom Avaya SDK envelope parsing  
 - Secure session handling  
 - Debug-first logging & diagnostics  
 
 ---
 
-## 🧩 How I Work
+## How I Work
 
-- ✅ Strong emphasis on **clarity, structure, and documentation**
-- 🧪 Build things to be **observable, debuggable, and automatable**
-- ♻️ Prefer **incremental iteration** over throwaway prototypes
-- 📦 Everything should be **deployable anywhere**
+- Strong emphasis on **clarity, structure, and documentation**
+- Build things to be **observable, debuggable, and automatable**
+- Prefer **incremental iteration** over throwaway prototypes
+- Everything should be **deployable anywhere**
 
 ---
 
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dan-thomas-2b338b79/
-- 📧 Email: dan@dlt.me.uk  
-- 🌐 Portfolio: https://dlt.me.uk  
+- LinkedIn: https://www.linkedin.com/in/dan-thomas-2b338b79/
+- Email: dan@dlt.me.uk  
+- Portfolio: https://dlt.me.uk  
 
 ---
