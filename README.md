@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dan Thomas
+# Hi, I'm Dan Thomas
 
 ![GitHub followers](https://img.shields.io/github/followers/dlt194?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/dlt194?style=flat-square)
