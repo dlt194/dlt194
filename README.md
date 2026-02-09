@@ -1,3 +1,5 @@
+![Profile Banner](/banner.png)
+
 # Hi, I'm Dan Thomas
 
 ![GitHub followers](https://img.shields.io/github/followers/dlt194?style=flat-square)
