@@ -49,9 +49,9 @@ I design and build **production-grade web applications, APIs, and telecom automa
 
 | Project | Preview | Description |
 |--------|--------|-------------|
-| **Certificate Tools** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fcert-tools-v2%2F02-cert-tools-v2.png&w=3840&q=75" width="500"> | Web-based **OpenSSL certificate management platform** built with **Next.js + Docker**. Generates CSRs, P12 bundles, trust chains, and self-signed certificates using containerised OpenSSL runners for reproducible cryptographic tooling. <br><br>🔗 [Repository](https://github.com/dlt194/cert-tools) |
-| **On-Call Rota Manager** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fzocm%2F01-zocm.png&w=3840&q=75" width="500"> | Incident escalation and rota management platform integrating **Zoom Contact Center variables** with a **Microsoft Teams management interface**. Provides role-based access control and automated escalation for **P1 / P2 incidents**. <br><br>🔗 [Repository](https://github.com/dlt194/oncall-manager) |
-| **IP Office Web Manager** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fipn-webmanager%2F03-dashboard.png&w=3840&q=75" width="500"> | Administrative interface for **Avaya IP Office** APIs featuring secure session handling, XML envelope parsing, and structured debug logging to support telecom operations and diagnostics. <br><br>🔗 [Repository](https://github.com/dlt194/ipo-web-manager) |
+| **Certificate Tools** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fcert-tools-v2%2F02-cert-tools-v2.png&w=3840&q=75" width="500"> | Web-based **OpenSSL certificate management platform** built with **Next.js + Docker**. Generates CSRs, P12 bundles, trust chains, and self-signed certificates using containerised OpenSSL runners for reproducible cryptographic tooling. <br><br> |
+| **On-Call Rota Manager** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fzocm%2F01-zocm.png&w=3840&q=75" width="500"> | Incident escalation and rota management platform integrating **Zoom Contact Center variables** with a **Microsoft Teams management interface**. Provides role-based access control and automated escalation for **P1 / P2 incidents**. <br><br> |
+| **IP Office Web Manager** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fipn-webmanager%2F03-dashboard.png&w=3840&q=75" width="500"> | Administrative interface for **Avaya IP Office** APIs featuring secure session handling, XML envelope parsing, and structured debug logging to support telecom operations and diagnostics. <br><br> |
 
 ---
 
