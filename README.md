@@ -45,24 +45,13 @@ I design and build **production-grade web applications, APIs, and telecom automa
 
 ## Featured Projects
 
-### Certificate Tools (Next.js + Docker)
-A portable, web-based OpenSSL tooling platform:
-- CSR generation  
-- P12 creation  
-- Trust chain handling  
-- Self-signed certificates  
-- Dockerised OpenSSL runners for consistency  
+## 🚀 Featured Projects
 
-### On-Call Rota & Escalation Manager
-- Zoom Contact Center variable integration  
-- Microsoft Teams management UI  
-- Role-based access control  
-- Automated escalation for P1 / P2 incidents  
-
-### IP Office Web Manager
-- Custom Avaya SDK envelope parsing  
-- Secure session handling  
-- Debug-first logging & diagnostics  
+| Project | Preview | Description |
+|--------|--------|-------------|
+| **Certificate Tools** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fcert-tools-v2%2F02-cert-tools-v2.png&w=3840&q=75" width="500"> | Web-based **OpenSSL certificate management platform** built with **Next.js + Docker**. Generates CSRs, P12 bundles, trust chains, and self-signed certificates using containerised OpenSSL runners for reproducible cryptographic tooling. <br><br>🔗 [Repository](https://github.com/dlt194/cert-tools) |
+| **On-Call Rota Manager** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fzocm%2F01-zocm.png&w=3840&q=75" width="500"> | Incident escalation and rota management platform integrating **Zoom Contact Center variables** with a **Microsoft Teams management interface**. Provides role-based access control and automated escalation for **P1 / P2 incidents**. <br><br>🔗 [Repository](https://github.com/dlt194/oncall-manager) |
+| **IP Office Web Manager** | <img src="https://dlt.me.uk/_next/image?url=%2Fprojects%2Fipn-webmanager%2F03-dashboard.png&w=3840&q=75" width="500"> | Administrative interface for **Avaya IP Office** APIs featuring secure session handling, XML envelope parsing, and structured debug logging to support telecom operations and diagnostics. <br><br>🔗 [Repository](https://github.com/dlt194/ipo-web-manager) |
 
 ---
 
@@ -78,9 +67,8 @@ A portable, web-based OpenSSL tooling platform:
 
 ## Get in Touch
 
-- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdan-thomas-2b338b79%2F)](#)
-- [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:dan@dlt.me.uk)
-
-- Portfolio: https://dlt.me.uk  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdan-thomas-2b338b79%2F)](#)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:dan@dlt.me.uk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dlt.me.uk-blue?style=flat-square)](https://dlt.me.uk)
 
 ---
